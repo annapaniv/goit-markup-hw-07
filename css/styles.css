@@ -721,7 +721,7 @@ body {
 
 @media screen and (min-width: 768px) and (max-width:1157px) {
   .advantages-container{
-    width: 582px;  }
+    width: 768px;  }
 }
 
 .visually-hidden {
@@ -860,7 +860,7 @@ body {
   }
 }
  @media screen and (min-width: 768px) and (max-width:1157px) {
-  .section-team{
+  .section-container{
     width: 582px;
     margin-left: auto;
     margin-right: auto;
@@ -946,7 +946,6 @@ body {
 
 .footer-logo {
   text-align: center;
-  margin-bottom: 72px;
 }
 
 .footer-text {
@@ -1074,6 +1073,9 @@ body {
 .footer-social{
   margin-bottom: 72px;
 }
+.footer-logo{
+  margin-bottom: 72px;
+}
 }
 @media screen and (min-width: 768px) {
   .footer-container {
@@ -1103,9 +1105,6 @@ body {
     flex-wrap: wrap;
   }
   
-  .footer-contact-form {
-    margin-right: 24px;
-  }
    .footer-container{
     width: 582px;
   } 
